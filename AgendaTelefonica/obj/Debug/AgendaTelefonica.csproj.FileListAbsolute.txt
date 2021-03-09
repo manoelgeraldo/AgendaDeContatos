@@ -1,0 +1,13 @@
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\bin\Debug\EntityFramework.dll
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\bin\Debug\EntityFramework.xml
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csprojAssemblyReference.cache
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.FormMain.resources
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.Properties.Resources.resources
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.GenerateResource.cache
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.CopyComplete
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
+C:\Users\Cibelle Caldas\Desktop\CSharp\CrudLinqEFCore\AgendaTelefonica\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
